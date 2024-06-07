@@ -1,5 +1,5 @@
 
-# Trilha .Net Developer DIO
+# Trilha Mongo DB DIO
 
 Entregando projeto final do curso Contruindo uma API.Net integrada ao MongoDb pela Dio.
 
