@@ -1,0 +1,12 @@
+C:\Users\Italo\source\repos\Estudos.Api.MongoDb\Estudos.Api.MongoDb.Data\bin\Debug\net7.0\Estudos.Api.MongoDb.Data.deps.json
+C:\Users\Italo\source\repos\Estudos.Api.MongoDb\Estudos.Api.MongoDb.Data\bin\Debug\net7.0\Estudos.Api.MongoDb.Data.dll
+C:\Users\Italo\source\repos\Estudos.Api.MongoDb\Estudos.Api.MongoDb.Data\bin\Debug\net7.0\Estudos.Api.MongoDb.Data.pdb
+C:\Users\Italo\source\repos\Estudos.Api.MongoDb\Estudos.Api.MongoDb.Data\obj\Debug\net7.0\Estudos.Api.MongoDb.Data.csproj.AssemblyReference.cache
+C:\Users\Italo\source\repos\Estudos.Api.MongoDb\Estudos.Api.MongoDb.Data\obj\Debug\net7.0\Estudos.Api.MongoDb.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Italo\source\repos\Estudos.Api.MongoDb\Estudos.Api.MongoDb.Data\obj\Debug\net7.0\Estudos.Api.MongoDb.Data.AssemblyInfoInputs.cache
+C:\Users\Italo\source\repos\Estudos.Api.MongoDb\Estudos.Api.MongoDb.Data\obj\Debug\net7.0\Estudos.Api.MongoDb.Data.AssemblyInfo.cs
+C:\Users\Italo\source\repos\Estudos.Api.MongoDb\Estudos.Api.MongoDb.Data\obj\Debug\net7.0\Estudos.Api.MongoDb.Data.csproj.CoreCompileInputs.cache
+C:\Users\Italo\source\repos\Estudos.Api.MongoDb\Estudos.Api.MongoDb.Data\obj\Debug\net7.0\Estudos.Api.MongoDb.Data.dll
+C:\Users\Italo\source\repos\Estudos.Api.MongoDb\Estudos.Api.MongoDb.Data\obj\Debug\net7.0\refint\Estudos.Api.MongoDb.Data.dll
+C:\Users\Italo\source\repos\Estudos.Api.MongoDb\Estudos.Api.MongoDb.Data\obj\Debug\net7.0\Estudos.Api.MongoDb.Data.pdb
+C:\Users\Italo\source\repos\Estudos.Api.MongoDb\Estudos.Api.MongoDb.Data\obj\Debug\net7.0\ref\Estudos.Api.MongoDb.Data.dll

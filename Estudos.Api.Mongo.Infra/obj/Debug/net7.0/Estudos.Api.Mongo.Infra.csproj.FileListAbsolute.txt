@@ -1,0 +1,15 @@
+C:\Users\Italo\source\repos\Estudos.Api.MongoDb\Estudos.Api.Mongo.Infra\bin\Debug\net7.0\Estudos.Api.Mongo.Infra.deps.json
+C:\Users\Italo\source\repos\Estudos.Api.MongoDb\Estudos.Api.Mongo.Infra\bin\Debug\net7.0\Estudos.Api.Mongo.Infra.dll
+C:\Users\Italo\source\repos\Estudos.Api.MongoDb\Estudos.Api.Mongo.Infra\bin\Debug\net7.0\Estudos.Api.Mongo.Infra.pdb
+C:\Users\Italo\source\repos\Estudos.Api.MongoDb\Estudos.Api.Mongo.Infra\bin\Debug\net7.0\Estudos.Api.MongoDb.Data.dll
+C:\Users\Italo\source\repos\Estudos.Api.MongoDb\Estudos.Api.Mongo.Infra\bin\Debug\net7.0\Estudos.Api.MongoDb.Data.pdb
+C:\Users\Italo\source\repos\Estudos.Api.MongoDb\Estudos.Api.Mongo.Infra\obj\Debug\net7.0\Estudos.Api.Mongo.Infra.csproj.AssemblyReference.cache
+C:\Users\Italo\source\repos\Estudos.Api.MongoDb\Estudos.Api.Mongo.Infra\obj\Debug\net7.0\Estudos.Api.Mongo.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Italo\source\repos\Estudos.Api.MongoDb\Estudos.Api.Mongo.Infra\obj\Debug\net7.0\Estudos.Api.Mongo.Infra.AssemblyInfoInputs.cache
+C:\Users\Italo\source\repos\Estudos.Api.MongoDb\Estudos.Api.Mongo.Infra\obj\Debug\net7.0\Estudos.Api.Mongo.Infra.AssemblyInfo.cs
+C:\Users\Italo\source\repos\Estudos.Api.MongoDb\Estudos.Api.Mongo.Infra\obj\Debug\net7.0\Estudos.Api.Mongo.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Italo\source\repos\Estudos.Api.MongoDb\Estudos.Api.Mongo.Infra\obj\Debug\net7.0\Estudos.Api.Mongo.Infra.csproj.CopyComplete
+C:\Users\Italo\source\repos\Estudos.Api.MongoDb\Estudos.Api.Mongo.Infra\obj\Debug\net7.0\Estudos.Api.Mongo.Infra.dll
+C:\Users\Italo\source\repos\Estudos.Api.MongoDb\Estudos.Api.Mongo.Infra\obj\Debug\net7.0\refint\Estudos.Api.Mongo.Infra.dll
+C:\Users\Italo\source\repos\Estudos.Api.MongoDb\Estudos.Api.Mongo.Infra\obj\Debug\net7.0\Estudos.Api.Mongo.Infra.pdb
+C:\Users\Italo\source\repos\Estudos.Api.MongoDb\Estudos.Api.Mongo.Infra\obj\Debug\net7.0\ref\Estudos.Api.Mongo.Infra.dll
